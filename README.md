@@ -2,6 +2,8 @@
 
 A very simple chrome extension to center the text in docs.rs.
 
+> There is probably a better way to do this, but I couldn't find it in 5 minutes.
+
 ## Screenshots
 
 ### Before
